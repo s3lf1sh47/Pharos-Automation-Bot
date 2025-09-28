@@ -231,7 +231,7 @@ pip install web3==6.15.0 eth-account==0.11.0
 ---
 
 ## ☕ Support the Developers
-**EVM:** `0x3b94Ff1611773171E06047C0041099CccCFC609F`   
+**EVM:**    0x304059f9e168dbfe4ed222c5e3f11de0e7a1f44f
 
 ---
 
